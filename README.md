@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mukul-raj-58968b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mukul Raj" height="30" width="40" /></a>
-<a href="https://twitter.com/MukulRaj_Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mukul Raj" height="30" width="40" /></a>
+<a href="https://x.com/i_mukulraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@i_mukulraj" height="30" width="40" /></a
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
