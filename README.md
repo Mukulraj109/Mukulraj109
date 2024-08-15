@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul Raj</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukulraj109&label=Profile%20views&color=0e75b6&style=flat" alt="Mukul Raj" /> </p>
 <p align="left"> <a href="https://github.com/Mukulraj109"><img src="https://github-profile-trophy.vercel.app/?username=Mukulraj109" alt="Mukul Raj" /></a> </p>
-<p align="left"> <a href="https://twitter.com/MukulRaj_Tech" target="blank"><img src="https://img.shields.io/twitter/follow/MukulRaj_Tech?logo=twitter&style=for-the-badge" alt="MukulRaj_Tech" /></a> </p>
+<p align="left"> <a href="https://x.com/i_mukulraj" target="blank"><img src="https://img.shields.io/twitter/follow/i_mukulraj?logo=twitter&style=for-the-badge" alt="@i_mukulraj" /></a> </p> </p>
 🔭 I’m currently working on Scribble Nest, a feature-rich blogging platform.
 
 🌱 I’m learning advanced system design and cloud technologies.
